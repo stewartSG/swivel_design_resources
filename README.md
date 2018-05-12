@@ -28,6 +28,9 @@
 * [Gradient](https://www.grabient.com/)
 * [WebKul Coolhue](https://webkul.github.io/coolhue/)
 
+### Mockups for Devices
+* [Device Mockups](https://mockup.photos/)
+
 ### Design Inspirations
 * [Pinterest](https://www.pinterest.com)
 * [Awwwards](https://www.awwwards.com/)

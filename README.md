@@ -1,6 +1,6 @@
 # Design Assets  
 
-> A curated list of design assets by sentosa design team that you can use to jumpstart your design adventure
+> A curated list of design assets by swivel design team that you can use to jumpstart your design adventure
 
 ## Design Toolkit
 

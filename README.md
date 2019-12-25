@@ -18,22 +18,7 @@
 </div>
 
 <div class="hidden-in-page">
-
-## How to Use and Contribute
-
-* Now you are in the **Awesome Design UI Kits** section.
-* To find the UI Kit, go through the Table of Contents or search for a keyword (for example, "social app", "travel").
-* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
-
-If you found some great UI Kit, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md) 
-(they're very simple, please take a look). We use such labels for Sketch ![Sketch](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg), Adobe XD ![Adobe XD](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg), InVision Studio ![InVision Stusio](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/invision-studio.svg) and Figma ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg) UI Kits, don't forget to add them. 
-
-If UI Kit is purely for mobile design (both iOS and Android), please add ![Mobile](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/smartphone-mobile-phone-svgrepo-com.svg). For UI Kits which can be used for websites, web app and other web products please add ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg). And for desktop UI Kits use ![Desktop](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/desktop.svg).
-
-Now I'd love to see your suggestions! 
-
-</div>
-
+ 
 <header class='header header-top -violet'></header>
 
 <div class="nav">
